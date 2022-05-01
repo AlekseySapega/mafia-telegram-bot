@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iGgpYv4pdHXsIDYGAu6CyScJ3p2TQycd9nzlAOLIyd0oU8oVB+m3AXFAhKuUOx07FO711yfR/shYx/aSo24Zyg==",
+  "success": true,
+  "projectFilePath": "/home/oleksii/code/mafia-telegram-bot/web-api/web-api-for-bot/web-api-for-bot.csproj",
+  "expectedPackageFiles": [
+    "/home/oleksii/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/oleksii/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/oleksii/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/oleksii/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/oleksii/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/oleksii/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
